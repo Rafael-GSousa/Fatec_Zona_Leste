@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Ex_01"/>
+	<classpathentry kind="src" path="Ex_02"/>
+	<classpathentry kind="src" path="Ex_03"/>
+	<classpathentry kind="src" path="Ex_04"/>
+	<classpathentry kind="src" path="Ex_05"/>
+	<classpathentry kind="src" path="Ex_06"/>
+	<classpathentry kind="src" path="Ex_07"/>
+	<classpathentry kind="src" path="Ex_08"/>
+	<classpathentry kind="src" path="Ex_09"/>
+	<classpathentry kind="src" path="Ex_10"/>
+	<classpathentry kind="src" path="Ex_11"/>
+	<classpathentry kind="src" path="Ex_12"/>
+	<classpathentry kind="src" path="Ex_13"/>
+	<classpathentry kind="src" path="Ex_14"/>
+	<classpathentry kind="src" path="Ex_15"/>
+	<classpathentry kind="src" path="Ex_16"/>
+	<classpathentry kind="src" path="Ex_17"/>
+	<classpathentry kind="src" path="Ex_18"/>
+	<classpathentry kind="src" path="Ex_19"/>
+	<classpathentry kind="src" path="Ex_20"/>
+	<classpathentry kind="src" path="Ex_21"/>
+	<classpathentry kind="src" path="Ex_22"/>
+	<classpathentry kind="src" path="Ex_23"/>
+	<classpathentry kind="src" path="Ex_24"/>
+	<classpathentry kind="src" path="Ex_25"/>
+	<classpathentry kind="src" path="Ex_26"/>
+	<classpathentry kind="src" path="Ex_27"/>
+	<classpathentry kind="src" path="Ex_28"/>
+	<classpathentry kind="src" path="Ex_29"/>
+	<classpathentry kind="src" path="Ex_30"/>
+	<classpathentry kind="src" path="Ex_31"/>
+	<classpathentry kind="src" path="Ex_32"/>
+	<classpathentry kind="src" path="Ex_33"/>
+	<classpathentry kind="src" path="Ex_34"/>
+	<classpathentry kind="src" path="Ex_35"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício01"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício02"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício03"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício04"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício05"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício06"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício07"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício08"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício09"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício10"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício11"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício12"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício13"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício14"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício15"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício16"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício17"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício18"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício19"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício20"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício21"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício22"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício23"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício24"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício25"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício26"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício27"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício28"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício29"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício30"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício31"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício32"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício33"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício34"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exercício35"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
