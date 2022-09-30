@@ -78,7 +78,7 @@ Obs.: para outras condições, preço novo será igual ao preço atual. </li>
   <li>	Receba 2 números inteiros, verifique qual o maior entre eles. Calcule e mostre o resultado da somatória dos números ímpares entre esses valores. </li>
   <li>	Receba um número N. Calcule e mostre a série 1 + 1/1! + 1/2! + ... + 1/N! </li>
   <li>	Receba um número inteiro. Calcule e mostre a série de Fibonacci até o seu N’nésimo termo. </li>
-  <li>	Receba 100 números inteiros reais. Verifique e mostre o maior e o menor valor. Obs.: somente valores positivos. </li>
+  <li>	Receba 100 números inteiros. Verifique e mostre o maior e o menor valor. Obs.: somente valores positivos. </li>
   <li>	Calcule a quantidade de grãos contidos em um tabuleiro de xadrez onde:
     <table>
       <thead>
