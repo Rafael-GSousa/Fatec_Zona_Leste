@@ -1,6 +1,5 @@
 package controler;
 
-import java.util.Arrays;
 
 public class ConcatenaVetor {
     public ConcatenaVetor(){
