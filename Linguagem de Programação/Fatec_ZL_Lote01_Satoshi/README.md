@@ -178,7 +178,7 @@ Obs.: para outras condições, preço novo será igual ao preço atual. </li>
           </tr>
         </tbody>
       </table></li> 
-    <li>  Criar uma matriz [8][8] onde o programa irá carregar segundo: <br>
+    <li>  Criar uma matriz [2][8] onde o programa irá carregar segundo: <br>
       <table>
         <tbody>
           <tr>
